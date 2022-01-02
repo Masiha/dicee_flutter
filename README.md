@@ -1,6 +1,6 @@
 # dicee_flutter
 
-A new Flutter project that make the dice roll at the press of a button.
+A new Flutter project that makes the dice roll at the press of a button.
 
 ## What is Dicee
 
